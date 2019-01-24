@@ -1,0 +1,13 @@
+.count-down {
+	padding: 20px 0;
+}
+
+.count-down .count-number {
+	font-size: calc(5px + 5vw);
+	font-weight: 500;
+}
+
+.count-down .count-label {
+	font-size: calc(5px + 1.5vw);
+	font-weight: 500;
+}

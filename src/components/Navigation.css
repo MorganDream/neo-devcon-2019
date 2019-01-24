@@ -1,0 +1,27 @@
+.react-navigation-transparent {
+	padding: 0.1rem 1rem;
+	background: transparent !important;
+}
+
+.react-navigation {
+	padding: 0.1rem 1rem;
+	background: linear-gradient(90deg, #92C026, 60%, #4AAD3E);
+}
+
+.react-navigation .nav-link {
+	color: white !important;
+	font-weight: bold;
+}
+
+.react-navigation-transparent .nav-link {
+	color: white !important;
+	font-weight: bold;
+}
+
+.hidden {
+	display: none;
+}
+
+.react-navigation .special-link {
+	color: yellow !important;
+}

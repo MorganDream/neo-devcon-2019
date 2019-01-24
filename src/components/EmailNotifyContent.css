@@ -1,0 +1,32 @@
+.email-notify-content {
+	padding-top: 30px;
+}
+
+.email-notify-content p {
+	margin-bottom: 0;
+}
+
+.email-notify-content img {
+	padding-top: 20px;
+	width: calc(100px + 30vw);
+	max-width: 300px;
+}
+
+.react-email-form {
+	display: flex;
+	justify-content: center;
+	padding: 20px 15% 50px 15%;
+}
+
+.react-email-form input {
+	max-width: 300px;
+	min-width: 200px;
+}
+
+.react-email-form button {
+	background: linear-gradient(-90deg, #154360, #2471A3);
+}
+
+.modal-body-email-info {
+	text-align: center;
+}

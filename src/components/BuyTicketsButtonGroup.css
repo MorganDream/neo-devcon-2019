@@ -1,0 +1,23 @@
+.button-group {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	margin-top: 10px;
+	margin-bottom: 50px;
+}
+
+.button-buy {
+	margin-top: 10px;
+	background: linear-gradient(-90deg, #154360, #2471A3);
+	border: none;
+	font-weight: bold;
+	width: calc(200px + 10vw);
+}
+
+.icon-buy {
+	padding:10px;
+}
+
+.buy-with-neo-form {
+	display: none;
+}
