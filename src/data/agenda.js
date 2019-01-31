@@ -9,7 +9,7 @@ var agenda = {
 		{
 			id: 1.2,
 			time: '10:00 - 10:20',
-			content: 'NEO 3.0',
+			content: 'Possible Improvements in NEO 3.0',
 			by_id: [20]
 		},
 		{
@@ -70,7 +70,7 @@ var agenda = {
             id: 1.12,
             time: '14:10 - 14:35',
             content: 'Panel: About Decentralization',
-            by_id: [90,230,80]
+            by_id: [90,230,80,340]
         },
         {
             id: 1.13,
@@ -88,7 +88,7 @@ var agenda = {
             id: 1.15,
             time: '15:15 - 15:45',
             content: 'Panel: How to Expand Developer Communities [TBD]',
-            by_id: [-10]
+            by_id: [350,320,180,181]
         },
         {
             id: 1.16,
@@ -157,7 +157,7 @@ var agenda = {
             id: 2.7,
             time: '11:30 - 12:00',
             content: 'ONI - A Sharing Infrastrurcture & Platform',
-            by_id: [220]
+            by_id: [220,370]
         },
         {
             id: 2.8,
@@ -193,7 +193,7 @@ var agenda = {
             id: 2.13,
             time: '14:35 - 15:00',
             content: 'Panel: About Blockchain Game [TBD]',
-            by_id: [-10]
+            by_id: [360,260,272]
         },
         {
             id: 2.14,

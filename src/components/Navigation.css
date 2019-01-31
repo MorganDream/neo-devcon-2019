@@ -6,6 +6,7 @@
 .react-navigation {
 	padding: 0.1rem 1rem;
 	background: linear-gradient(90deg, #92C026, 60%, #4AAD3E);
+	transition: transform 1s
 }
 
 .react-navigation .nav-link {
@@ -19,7 +20,7 @@
 }
 
 .hidden {
-	display: none;
+	transform: translateY(-100%);
 }
 
 .react-navigation .special-link {

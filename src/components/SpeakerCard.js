@@ -1,8 +1,5 @@
 import React from 'react';
-import { Image, Modal, Button, CardGroup, Card } from 'react-bootstrap';
-import iconGithub from '../resources/Icons/SVG/icon_github.svg';
-import iconTwitter from '../resources/Icons/SVG/icon_twitter.svg';
-import iconStar from '../resources/Icons/SVG/icon_star.svg';
+import { Image, Modal } from 'react-bootstrap';
 
 class SpeakerCard extends React.Component {
 	constructor(props) {

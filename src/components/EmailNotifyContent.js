@@ -30,7 +30,7 @@ class EmailNotifyContent extends React.Component {
 		});
 
 		var self = this;
-		fetch(`https://neo.org/subscription/add?email=${this.state.value}`)
+		fetch(`https://neo.org/subscription/add?email=${this.state.value}&group=devcon`)
 			.then(response => response.text())
 			.then(responseText => {
 				console.log(responseText);
