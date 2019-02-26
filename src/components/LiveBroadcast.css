@@ -1,0 +1,15 @@
+.live-broadcast-content {
+    padding: 0.1vw;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.live-boardcast-container {
+    padding-bottom: 3vw;
+}
+
+.youtube-live {
+    min-width: 403px;
+    min-height: 226px;
+}

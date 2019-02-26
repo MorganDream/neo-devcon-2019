@@ -12,7 +12,7 @@ class Countdown extends React.Component {
 			days: "00",
 			hours: "00",
 			minutes: "00",
-			seconds: "00"
+			seconds: "00",
 		}
 	}
 
